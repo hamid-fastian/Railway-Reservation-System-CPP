@@ -69,7 +69,11 @@ bool Person::login()
 	Passenger p;
 	Admin a;
 	int ch;
-	cout << "=====> LOGIN <======\n";
+	cout << "\n==================================\n";
+	cout << "===\n";
+	cout << "            LOGIN\n";
+	cout << "==================================\n";
+	cout << "===\n";
 	cout << "1.Passenger Login\n";
 	cout << "2.Admin Login\n";
 	cout << "3.Back\n";
