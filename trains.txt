@@ -1,0 +1,10 @@
+TrainID     TrainName               Source         Destination        DepartureTime    ArrivalTime      TotalSeats     AvailableSeats     Fare
+
+T101        GreenLine                Lahore         Karachi            08:00_AM         06:30_PM         100            90                 3500  
+T102        Tezgam                   Karachi        Rawalpindi         09:30_AM         02:30_PM         80             80                 1800
+T103        Khyber_Mail              Karachi        Peshawar           07:00_AM         09:00_PM         120            87                 4200      
+T104        Awam_Express             Multan         Lahore             01:00_PM         05:30_PM         90             70                 1500      
+T105        Shalimar                 Islamabad      Karachi            06:30_AM         05:00_PM         70             59                 5000      
+T106        Ravi_Express             Lahore         Karachi            01:00_AM         11:30_AM         90             73                 4000      
+T107        KarakoramExpress         Lahore         Karachi            03:00_PM         10:00_AM         900            900                8500      
+T108        JafarExpress             Karachi        Sialkot            01:00_PM         11:00_AM         950            890                3400      

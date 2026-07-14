@@ -1,0 +1,5 @@
+ReservationID      Username        TrainID      Sourse        Destination       JourneyDate     SeatsBooked       Fare           Status
+
+R001              muhmmad123        T101        Lahore         Karachi           3-3-2026       5              17500          Cancelled      
+R002              hamza1214         T102        Karachi        Rawalpindi        3-2-2026       10             18000          Cancelled      
+R003              hamza1214         T108        Karachi        Sialkot           4-3-2026       60             204000         Booked      

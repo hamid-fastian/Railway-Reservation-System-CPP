@@ -1,0 +1,8 @@
+Name                     Age           Gender            Phone        Username       Password
+
+Hamza                    18             male           40925205294    hamza1214      hamza5850      
+Charli                   50             male           o3500000000    charli5555     charli5855     
+Hussain                  17             male           12345678911    hussain8888    hussain1515    
+Fatima                   20             female         12345678911    fatima5555     fatima5850     
+Hassan                   17             male           03141516178    hassan1414     hassan123      
+Muhmmad                  30             male           03120000000    muhmmad123     muhmmad123     
