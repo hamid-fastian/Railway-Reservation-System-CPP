@@ -56,6 +56,10 @@ A console-based Railway Reservation System developed using C++ with Object-Orien
 
 **Malik Hamid Raza**
 
+BS Artificial Intelligence Student
+
+Passionate about learning programming through practical projects and continuously improving problem-solving skills.
+
 
 ## Screenshots
 
